@@ -15,4 +15,4 @@ Below are READMEs for several of my projects, showcasing my design approach, pro
 
  [Read more about my design insights here.](Insights.md)
 
- 
+ [View my education and certifications here.](Certifications.md)
