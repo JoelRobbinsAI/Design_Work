@@ -1,4 +1,4 @@
-# portfolio
+# Joel Robbins
 Portfolio of AI agents, prompt engineering, and interaction design work
 
 I’m Joel Robbins.
