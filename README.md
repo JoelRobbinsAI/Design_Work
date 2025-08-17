@@ -3,7 +3,7 @@ Portfolio of AI agents, prompt engineering, and interaction design work
 
 I’m Joel Robbins.
 
-Having a bachelor’s in dietetics and a master’s in acupuncture, I bring high-level reasoning to AI systems design, creating agents with dynamic, evolving interactions. I hold full specializations in Prompt Engineering, AI Agent Development, and Responsible Generative AI, and have completed additional certification courses in Python and LangChain.
+Having a bachelor’s in dietetics and a master’s in acupuncture, I bring high-level reasoning to AI systems design, creating agents with dynamic, evolving interactions. I hold full specializations in Prompt Engineering, AI Agent Development, and Responsible Generative AI, and have completed additional introductory courses in Python and LangChain.
 
 I build real-world AI assistants that maintain a persona and interact naturally in voice or text, keeping track of context, structured information, and user goals across a dynamic conversation. The agent acts as a living, responsive partner, helping the user in ongoing tasks while adapting to how they work.
 
@@ -24,3 +24,5 @@ Case Studies:
 [Botanical Garden Tour Guide](tour_guide.md)
 
 [Chinese Medicine Herbalist](chinese_herbalist.md)
+
+[Detective Game](detective.md)
