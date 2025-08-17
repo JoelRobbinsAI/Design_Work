@@ -26,3 +26,6 @@ Case Studies:
 [Chinese Medicine Herbalist](chinese_herbalist.md)
 
 [Detective Game](detective.md)
+
+PromptLang: A DSL for Structured AI Interaction
+Explore PromptLang, a domain-specific language designed to give precise control over AI outputs. [View project](https://github.com/your-username/PromptLang)
