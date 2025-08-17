@@ -1,6 +1,7 @@
 Designing Coherent AI Agents with the WWHW Framework
 
 Introduction
+
 When designing AI agents, one of the biggest challenges is maintaining coherence while leaving space for creativity. Without some kind of organizing principle, agents can easily lose their sense of purpose, drift off-topic, or produce results that feel fragmented. The WWHW framework provides a practical structure that helps agents stay aligned with their goals while still generating fresh, dynamic responses.
 
 The Framework
