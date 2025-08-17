@@ -28,4 +28,4 @@ Case Studies:
 [Detective Game](detective.md)
 
 PromptLang: A DSL for Structured AI Interaction
-Explore PromptLang, a domain-specific language designed to give precise control over AI outputs. [View project](https://github.com/your-username/PromptLang)
+Explore PromptLang, a domain-specific language designed to give precise control over AI outputs. [View Project](https://github.com/JoelRobbinsAI/PromptLang.git)
