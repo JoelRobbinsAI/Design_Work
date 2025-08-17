@@ -4,6 +4,11 @@ Certifications & Academic Training
 
 ​Bachelor of Science in Nutrition/Dietetics, Bastyr University, Kenmore WA, 2006
 
+​Authorized Instructor
+​Qigong, Chinese Nutrition, Taoist Studies Institute, Seattle WA, September, 2011
+
+​Ba Gua and Tai Chi, Wutang Physical Culture Association, New York NY, August, 2004
+
 ​AI Certifications
 
 ​AI Agent Developer Specialization (6 courses), Vanderbilt University, Nashville, TN, July 27, 2025
@@ -17,8 +22,3 @@ Certifications & Academic Training
 ​Master LangChain with No Code Tools (Single course), Packt (Coursera), July 25, 2025
 
 ​Programming for Everybody (Single course), University of Michigan, Ann Arbor, MI, July 17, 2025
-
-​Authorized Instructor
-​Qigong, Chinese Nutrition, Taoist Studies Institute, Seattle WA, September, 2011
-
-​Ba Gua and Tai Chi, Wutang Physical Culture Association, New York NY, August, 2004
