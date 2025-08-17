@@ -19,8 +19,6 @@ Below are READMEs for several of my projects, showcasing my design approach, pro
 
 Case Studies:
 
-[Companion Channel](Companion.md)
-
 [Botanical Garden Tour Guide](tour_guide.md)
 
 [Chinese Medicine Herbalist](chinese_herbalist.md)
@@ -28,6 +26,8 @@ Case Studies:
 [Detective Game](detective.md)
 
 [Immersive Storytelling](YouStory.md)
+
+[Companion Channel](Companion.md)
 
 DSL Exploration
 
