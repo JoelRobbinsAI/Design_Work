@@ -4,10 +4,9 @@ Certifications & Academic Training
 
 ​Bachelor of Science in Nutrition/Dietetics, Bastyr University, Kenmore WA, 2006
 
-​Authorized Instructor
-​Qigong, Chinese Nutrition, Taoist Studies Institute, Seattle WA, September, 2011
+​Authorized Instructor in ​Qigong & Chinese Nutrition, Taoist Studies Institute, Seattle WA, September, 2011
 
-​Ba Gua and Tai Chi, Wutang Physical Culture Association, New York NY, August, 2004
+​Ba Gua & Tai Chi Instructor, Wutang Physical Culture Association, New York NY, August, 2004
 
 ​AI Certifications
 
