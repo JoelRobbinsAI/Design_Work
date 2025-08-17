@@ -22,3 +22,5 @@ Case Studies:
 [Companion Channel](Companion.md)
 
 [Botanical Garden Tour Guide](tour_guide.md)
+
+[Chinese Medicine Herbalist](chinese_herbalist.md)
