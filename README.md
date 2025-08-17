@@ -11,9 +11,9 @@ The agents I build serve practical purposes, from assisting users with content c
 
 I’m also developing a specialized AI prompt language (DSL) to bring more structure and efficiency to prompt engineering. Still evolving, this work reflects my commitment to creating practical, scalable AI interactions. I’m continually refining my skills and learning new tools, recognizing that AI systems design is a rapidly evolving field, and I strive to stay up to date while expanding my capabilities.
 
-Below are READMEs for several of my projects, showcasing my design approach, problem-solving, and AI interaction work.
-
  [View my education and certifications here.](Certifications.md)
+
+Below are READMEs for several of my projects, showcasing my design approach, problem-solving, and AI interaction work.
  
  [Read more about my design work here.](design.md)
 
