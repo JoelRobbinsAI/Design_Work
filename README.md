@@ -18,4 +18,5 @@ Below are READMEs for several of my projects, showcasing my design approach, pro
  [View my education and certifications here.](Certifications.md)
 
 Case Studies:
+
 [Companion Channel](Companion.md)
