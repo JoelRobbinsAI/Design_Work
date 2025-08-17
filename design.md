@@ -60,5 +60,3 @@ When
  * When the user requests, AI generates a shopping list for the adjusted recipe, including all ingredients needed to fulfill the final version.
  * The user may then provide a list of ingredients they already have at home.
  * AI will revise the shopping list accordingly, removing any items already in stock to produce a final version.
-
----
