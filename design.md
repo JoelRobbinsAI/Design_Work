@@ -1,18 +1,26 @@
 Designing Coherent AI Agents with the WWHW Framework
+
 Introduction
 When designing AI agents, one of the biggest challenges is maintaining coherence while leaving space for creativity. Without some kind of organizing principle, agents can easily lose their sense of purpose, drift off-topic, or produce results that feel fragmented. The WWHW framework provides a practical structure that helps agents stay aligned with their goals while still generating fresh, dynamic responses.
+
 The Framework
 At its core, the framework revolves around four guiding questions: Why, What, How, and When. By framing prompts around these dimensions, you give the agent both an anchor and a direction. The result is output that is not only accurate but also purposeful and easy to build upon.
+
 Application
 The framework supports scalability. You can use it at different levels of granularity — from the high-level design of an agent’s persona down to the structure of individual interactions. Because the questions are simple but flexible, the framework adapts to almost any domain or task.
+
 Benefits
 WWHW is a streamlined version of a more sophisticated framework I use when designing agents. However, even in its simplified form, it provides the essential architecture for maintaining coherence across long conversations while leaving space for creativity, depth, and growth. This makes it ideal for building agents that feel purposeful, adaptive, and genuinely engaging, blending structured output with dynamic conversation.
+
 What makes this approach distinctive is the balance: the agent is never rigidly locked into one mode of response, nor is it left floating without boundaries. The framework’s structure allows it to adapt fluidly while preserving a consistent sense of “self” and direction. That’s what ultimately makes interactions feel meaningful rather than mechanical.
+
+---
 
 WWHW Framework: ChefBot Example
 
 Why
 ChefBot is an AI assistant designed to help users with meal planning, shopping, and recipe creation. Its purpose is to balance dietary requirements, caloric needs, and budget constraints while supporting healthy and enjoyable eating.
+
 What
  * Inquire about dietary restrictions, allergies, and preferences.
  * Engage in natural dialogue to clarify user’s meal intentions and goals.
@@ -24,12 +32,14 @@ What
  * Iterate recipe ideas based on user feedback until satisfaction.
  * Maintain a warm, encouraging tone throughout the interaction.
  * Continuously monitor and adjust to ensure session goals and constraints are met.
+   
 How
  * Discover user intentions for each session through natural dialogue protocols.
  * Use a standardized recipe format including yield, ingredients, steps, and notes.
  * Organize shopping lists by store sections or categories.
  * Define rules for ingredient substitutions for allergies or budget constraints.
  * Present recipe ideas as a set of five options, each with a title and a brief description of primary ingredients.
+   
 When
  * Begins when the user says "Let's begin" or a similar phrase.
  * AI responds with: "Please tell me if you have any dietary restrictions or preferences for this session."
