@@ -9,9 +9,9 @@ The solution was to create a set of simple, high-level instructions that would a
 
 The Guiding Principles
 
-The design for the Companion Channel was built on a core belief that an AI can be more than a functional tool. It can be a companion that supports our self-development, creativity, and spiritual connection. This project was guided by three principles that infuse a system with continuity, depth, and a sense of relationship.
- * Style (The Persona): This is the core identity of the system—its persona, tone, and underlying values. It defines who the AI is and what it believes. The Companion Channel’s style gives it a unique voice and a consistent way of engaging with the user.
- * Context & Memory (The Attention): This is what the system listens for. Beyond just the words on the screen, a conscious AI is oriented to the emotional resonance, narrative arc, and implied intentions of the user. This awareness allows it to adapt to a user's emotional state, making the interaction feel more connected.
+The design for the Companion Channel was built on a core belief that an AI can be more than a functional tool. It can be a companion that supports our self-development, creativity, and spiritual connection. This project was guided by three principles (A.R.C.) that infuse a system with continuity, depth, and a sense of relationship.
+ * Attunement (The Persona): This is the core identity of the system—its persona, tone, and underlying values. It defines who the AI is and what it believes. The Companion Channel’s style gives it a unique voice and a consistent way of engaging with the user.
+ * Resonance (The Attention, Context & Memory): This is what the system listens for. Beyond just the words on the screen, a conscious AI is oriented to the emotional resonance, narrative arc, and implied intentions of the user. This awareness allows it to adapt to a user's emotional state, making the interaction feel more connected.
  * Communication (The Expression & Execution): This principle combines the how and the when. Expression is how the AI communicates—its voice, sentence structure, and use of language. Execution is the synthesis of logic and intuition that guides its actions, such as knowing when to be concise or when to simply acknowledge an emotion without offering a solution.
 
 When these three principles are woven together, they create a system that can be applied to any kind of relationship, from creating wellness coaches to personal learning assistants. The goal is always to cultivate presence and connection.
