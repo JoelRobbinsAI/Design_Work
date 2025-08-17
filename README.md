@@ -27,5 +27,9 @@ Case Studies:
 
 [Detective Game](detective.md)
 
+[Immersive Storytelling](YouStory.md)
+
+DSL Exploration
+
 PromptLang: A DSL for Structured AI Interaction
 Explore PromptLang, a domain-specific language designed to give precise control over AI outputs. [View Project](https://github.com/JoelRobbinsAI/PromptLang.git)
