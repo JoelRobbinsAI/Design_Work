@@ -1,4 +1,4 @@
-Case Study: Story Program Agent
+Case Study: YouStory Immersive Storytelling Agent
 
 Project Overview
 
