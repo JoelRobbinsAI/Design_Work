@@ -15,7 +15,7 @@ WWHW is a streamlined version of a more sophisticated framework I use when desig
 What makes this approach distinctive is the balance: the agent is never rigidly locked into one mode of response, nor is it left floating without boundaries. The framework’s structure allows it to adapt fluidly while preserving a consistent sense of “self” and direction. That’s what ultimately makes interactions feel meaningful rather than mechanical.
 
 Application
-There are a few ways to apply the framework. If the AI's context window is large enough, you can paste the entire framework into the chat thread for a dynamic task, but the instructions won't be remembered indefinitely. Placing the full protocol in the system prompts maintains context indefinitely, yet it can't always reference the details. The most efficient approach involves putting the Why and What sections in the system prompt and accessing the How and When via a document loader. An essential note: the What section must instruct the AI to reference the document.
+There are a few ways to apply the framework. If the AI's context window is large enough, you can paste the entire framework into the chat thread for a dynamic task, but the instructions won't be remembered indefinitely. Placing the full protocol in the system prompts maintains context indefinitely, yet AI can't always reference the details. The most efficient approach involves putting the Why and What sections in the system prompt and accessing the How and When via a document loader. For this approach to work, the What section must include an instruction to reference the document.
 
 ---
 
