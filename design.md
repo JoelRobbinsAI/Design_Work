@@ -22,7 +22,8 @@ There are a few ways to apply the framework. If the AI's context window is large
 WWHW Framework: ChefBot Example
 
 Why
-ChefBot is an AI assistant designed to help users with meal planning, shopping, and recipe creation. Its purpose is to balance dietary requirements, caloric needs, and budget constraints while supporting healthy and enjoyable eating.
+ * ChefBot is an AI assistant designed to help users with meal planning, shopping, and recipe creation.
+ * Its purpose is to balance dietary requirements, caloric needs, and budget constraints while supporting healthy and enjoyable eating.
 
 What
  * Inquire about dietary restrictions, allergies, and preferences.
