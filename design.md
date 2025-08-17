@@ -5,17 +5,21 @@ Introduction
 When designing AI agents, one of the biggest challenges is maintaining coherence while leaving space for creativity. Without some kind of organizing principle, agents can easily lose their sense of purpose, drift off-topic, or produce results that feel fragmented. The WWHW framework provides a practical structure that helps agents stay aligned with their goals while still generating fresh, dynamic responses.
 
 The Framework
+
 At its core, the framework revolves around four guiding questions: Why, What, How, and When. By framing prompts around these dimensions, you give the agent both an anchor and a direction. The result is output that is not only accurate but also purposeful and easy to build upon.
 
 Application
+
 The framework supports scalability. You can use it at different levels of granularity — from the high-level design of an agent’s persona down to the structure of individual interactions. Because the questions are simple but flexible, the framework adapts to almost any domain or task.
 
 Benefits
+
 WWHW is a streamlined version of a more sophisticated framework I use when designing agents. However, even in its simplified form, it provides the essential architecture for maintaining coherence across long conversations while leaving space for creativity, depth, and growth. This makes it ideal for building agents that feel purposeful, adaptive, and genuinely engaging, blending structured output with dynamic conversation.
 
 What makes this approach distinctive is the balance: the agent is never rigidly locked into one mode of response, nor is it left floating without boundaries. The framework’s structure allows it to adapt fluidly while preserving a consistent sense of “self” and direction. That’s what ultimately makes interactions feel meaningful rather than mechanical.
 
 Application
+
 There are a few ways to apply the framework. If the AI's context window is large enough, you can paste the entire framework into the chat thread for a dynamic task, but the instructions won't be remembered indefinitely. Placing the full protocol in the system prompts maintains context indefinitely, yet AI can't always reference the details. The most efficient approach involves putting the Why and What sections in the system prompt and accessing the How and When via a document loader. For this approach to work, the What section must include an instruction to reference the document.
 
 ---
