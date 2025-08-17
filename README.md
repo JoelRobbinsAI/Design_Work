@@ -20,3 +20,5 @@ Below are READMEs for several of my projects, showcasing my design approach, pro
 Case Studies:
 
 [Companion Channel](Companion.md)
+
+[Botanical Garden Tour Guide](tour_guide.md)
