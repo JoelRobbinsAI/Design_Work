@@ -13,9 +13,9 @@ I’m also developing a specialized AI prompt language (DSL) to bring more struc
 
 Below are READMEs for several of my projects, showcasing my design approach, problem-solving, and AI interaction work.
 
- [Read more about my design work here.](design.md)
-
  [View my education and certifications here.](Certifications.md)
+ 
+ [Read more about my design work here.](design.md)
 
 Case Studies:
 
