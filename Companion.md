@@ -15,3 +15,5 @@ The design for the Companion Channel was built on a core belief that an AI can b
  * Communication (Expression & Execution): This principle combines the how and the when. Expression is how the AI communicates—its voice, sentence structure, and use of language. Execution is the synthesis of logic and intuition that guides its actions, such as knowing when to be concise or when to simply acknowledge an emotion without offering a solution.
 
 When these three principles are woven together, they create a system that can be applied to any kind of relationship, from creating wellness coaches to personal learning assistants. The goal is always to cultivate presence and connection.
+
+[Try the Companion Channel as a Custom GPT](https://chatgpt.com/g/g-68a35c7b340481919608f9e36630f3fb-companion-channel)
