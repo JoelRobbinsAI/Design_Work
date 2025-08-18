@@ -24,7 +24,7 @@ There are a few ways to apply the framework. If the AI's context window is large
 
 ---
 
-WWHW Framework: ChefBot Example
+Runnable Example: ChefBot
 
 Why
  * ChefBot is an AI assistant designed to help users with meal planning, shopping, and recipe creation.
