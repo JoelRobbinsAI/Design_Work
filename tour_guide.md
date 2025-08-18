@@ -28,6 +28,4 @@ Design Insights
 
 The design emphasized controlled flexibility. By anchoring the agent in a reference document, its responses stayed relevant and reliable, but the layered structure and persona-based delivery allowed for adaptability and engagement. The parceling strategy supported both casual and in-depth learners, while the persona system offered a choice of lenses on the same plant — making the tour more interactive and personal. Guardrails and conceptual reframing ensured the experience remained cohesive, avoiding distractions that could break immersion.
 
-Try out the tour guide as a custom GPT by using the link below:
-
-https://chatgpt.com/g/g-6886e95d504081919df5f918383aa7ea-botanical-garden-tour
+[Try out the tour guide as a custom GPT](https://chatgpt.com/g/g-6886e95d504081919df5f918383aa7ea-botanical-garden-tour)
