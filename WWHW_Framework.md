@@ -1,4 +1,4 @@
-Designing Coherent AI Agents with the WWHW Framework
+WWHW Framework for Designing Coherent AI Agents (with Runnable Example)
 
 Introduction
 
