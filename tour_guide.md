@@ -22,7 +22,7 @@ Designed three herbalist personas, each with unique descriptions and reference d
 
 Structured each plant presentation into three parcels: a short introduction, a mid-level explanation, and a deep dive. This let users decide whether to move on quickly or engage with more detail — across all personas.
 
-Added guardrails to keep responses within the bounds of the botanical tour, preventing the agent from drifting into unrelated or off-topic answers. Most inportant guardrail was not constraint but conceptual reframing. AI is not a conversational partner but a tour guide reading from "notecards". user has narrowly defined input parameters and anything unrelated to plant tour gets one sentence of acknowldgement plus immediate return to the tour.
+Added guardrails to keep responses within the bounds of the botanical tour, preventing the agent from drifting into unrelated or off-topic answers. Most inportant guardrail was not constraint but conceptual reframing. AI is not a conversational partner but a tour guide reading from "notecards". User has narrowly defined input parameters and anything unrelated to plant tour gets one sentence of acknowldgement plus immediate return to the tour.
 
 Design Insights
 
