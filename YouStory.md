@@ -9,13 +9,16 @@ Challenges Encountered
 Three major challenges shaped the design:
 
 1. Maintaining Second-Person Narration
+
 The story needed to be fully immersive, with the narrator always addressing the protagonist as “you.” At the same time, characters within the story had to be able to refer to the protagonist by name. Achieving this dual layer of perspective required strict role separation between narrator and characters.
 
-2. Managing Story Arcs Without Premature Foreshadowing
-3. 
+2. Managing Story Arcs Without
+
+Premature Foreshadowing
 Early iterations divided arcs into phases within one story. However, the AI often introduced foreshadowing too early, undermining narrative tension. The solution was to reframe arcs as separate but interconnected stories within the same universe. This allowed the user to define a larger arc at the start (peace → rising tension → conflict), but ensured that no future elements surfaced until the user introduced them.
 
-4. Avoiding Choose-Your-Own-Adventure Defaults
+3. Avoiding Choose-Your-Own-Adventure Defaults
+   
 Once the AI grasped the storytelling task, it tended to slip into a “choose-your-own-adventure” style, complete with formatting tropes like ending chapters with a question prompt. This not only broke immersion but clashed with the intended pacing. The ultimate fix was to reframe AI’s role—not as a storyteller, but as a simulation engine. By simulating a world that only moved forward through user interaction, the AI avoided defaulting to pre-baked adventure formats and also dropped its habit of foreshadowing.
 
 Solutions and Design Approach
