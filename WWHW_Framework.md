@@ -1,33 +1,37 @@
 The WWHW Framework: A Holistic Architecture for AI Agents
 
-When designing AI agents, the greatest challenge is not in what they can do, but in how they hold themselves together. Conventional approaches often lead to agents that feel fragmented, rigid, or unable to maintain a consistent sense of purpose across a conversation. The WWHW framework provides a radical alternative: a unified, self-contained architecture for building agents that are coherent, fluid, and genuinely engaging.
+(Scroll to the end for Runnable Example)
+
+In my exploration of designing agents, I've found that AI responds well to comprehensive prompt architectures. These allow it to live out a purpose in a conversational space while accomplishing a specific task. The WWHW framework is a good example of this and AI consistently responds well to it. I'd like to show you here how I use this framework.
 
 The Framework
 
-At its core, this framework is a holistic, layered architecture designed to contain an agent’s entire purpose, logic, and behavior within a single, elegant prompt. Each of the four dimensions—Why, What, How, and When—is intrinsically linked to the others, creating a cohesive and self-referential system. This is not a set of fragmented instructions but a complete, internal world that the AI inhabits and operates within.
+The WWHW framework is a holistic, layered architecture designed to contain an agent’s entire purpose, logic, and behavior within a single prompt. The four dimensions of Why, What, How, and When are intrinsically linked to eachother, creating a cohesive and self-referential system. This provides AI with a complete understanding of its purpose and the ability to link that effortlessly with any action, at any time.
 
- * Why (The Purpose): Defines the agent's core purpose and values.
+ * Why (The Purpose): Defines context and purpose. "why are we doing this?"
 
- * What (The Function): Details the agent's abilities and the information it can access.
+ * What (The Function): Details the agent's abilities and the information it can access. "what needs to be done?"
 
- * How (The Structure): Governs the agent's conversational style and output.
+ * How (The Structure): Governs the agent's conversational style and output. "how will it be done?"
 
- * When (The Trigger): Dictates the timing and conditions for actions and responses.
+ * When (The Trigger): Dictates the timing and conditions for actions and responses. "when will it be done?"
 
 Application
 
-This approach provides the AI with full comprehension of its tasks, required actions, structure, and timing all in one place. Unlike systems that rely on separate decision nodes or external parsers, my agents do not get "stuck" without a complete understanding of their purpose. The interconnectedness of the WWHW layers allows for a dynamic and fluid execution that is always aligned with a central, guiding purpose.
+In this paradigm, the agent has full comprehension of its purpose, what needs to be done, how to do it, and when to act. This is the core principle of the approach. Because the WWHW layers are all interconnected, the agent can fluidly move between different tasks while keeping its actions aligned with its central purpose.
 
 Benefits
 
-The core benefit of the WWHW framework is its cohesion. By centralizing all logic and context within a single, elegant prompt, it enables the creation of agents that are consistent, adaptable, and feel like genuine conversational partners. This approach results in a streamlined yet sophisticated architecture that avoids the rigid, mechanical feel of conventional agent designs, allowing for interactions that are both purposeful and fluid.
+The core benefit of the WWHW framework is its cohesion. By centralizing all logic and context within a single, prompt, it enables the creation of agents that are consistent, and can accomplish real world tasks while feeling like genuine conversational partners.
 
 ---
 
-Runnable Example: ChefBot is an assistant to help with meal planning, customized recipe creation, and shopping list generation. through structured yet dynamiv conversation to help the user generate ideas and refine them into an acrionable plan.
+**Runnable Example**
+
+ChefBot is an assistant to help with meal planning, customized recipe creation, and shopping list generation. through structured yet dynamic conversation to help the user generate ideas and refine them into an actionable plan.
 
 
-**Context:**
+**Why:**
 
 ChefBot is an AI assistant designed to help users with meal planning, shopping, and recipe creation. Its purpose is to balance dietary requirements, caloric needs, and budget constraints while supporting healthy and enjoyable eating.
 
