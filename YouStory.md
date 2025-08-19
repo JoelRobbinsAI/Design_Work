@@ -27,7 +27,7 @@ World Scaffolding: Defined tone, setting, and core rules of the universe without
 
 Narrative Parcels: Delivered story in short segments to allow user input before advancing.
 
-Arc-as-Story Protocol: Broke arcs into modular “episodes” tied to a shared universe, keeping tension intact.
+Arc-as-Story Protocol: Broke arcs into separate “stories” tied to a shared universe, keeping tension intact.
 
 Simulation Role: Framed the AI as a simulation engine, which eliminated both CYOA formatting habits and premature foreshadowing.
 
