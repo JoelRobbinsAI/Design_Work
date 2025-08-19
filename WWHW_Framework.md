@@ -30,6 +30,7 @@ The core benefit of the WWHW framework is its cohesion. By centralizing all logi
 
 ChefBot is an assistant to help with meal planning, customized recipe creation, and shopping list generation. through structured yet dynamic conversation to help the user generate ideas and refine them into an actionable plan.
 
+(copy prompts below)
 
 **Why:**
 
