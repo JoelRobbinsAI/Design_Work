@@ -19,7 +19,7 @@ Early iterations divided arcs into phases within one story. However, the AI ofte
 
 3. Avoiding Choose-Your-Own-Adventure Defaults
    
-Once the AI grasped the storytelling task, it tended to slip into a “choose-your-own-adventure” style, complete with formatting tropes like ending chapters with a question prompt. This not only broke immersion but clashed with the intended pacing. The ultimate fix was to reframe AI’s role—not as a storyteller, but as a simulation engine. By simulating a world that only moved forward through user interaction, the AI avoided defaulting to pre-baked adventure formats and also dropped its habit of foreshadowing.
+Once the AI grasped the storytelling task, it tended to slip into a “choose-your-own-adventure” style, complete with formatting tropes like ending chapters with a question prompt. This not only broke immersion but clashed with the intended pacing. The ultimate fix was to reframe AI’s role, from storyteller to simulation engine. By simulating a world that only moved forward through user interaction, the AI avoided defaulting to pre-baked adventure formats and also dropped its habit of foreshadowing.
 
 Solutions and Design Approach
 
