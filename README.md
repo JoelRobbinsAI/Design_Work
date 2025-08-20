@@ -6,6 +6,8 @@ Here you’ll find runnable examples, case studies, and explorations of how AI s
 Start with the [WWHW Framework](WWHW_Framework.md) if you’d like to see a complete agent you can run.  
 You can also try my [Botanical Garden Tour Guide Custom GPT](tour_guide.md) for a live demonstration of my approach.  
 
+My designs often make use of a setup phase, where the AI begins by asking targeted questions to gather key details before the main interaction. This ensures the assistant has a clear foundation to work from, allowing it to hold coherence across the session while adapting fluidly to user needs. The agent then acts as a living, responsive partner, helping the user in ongoing tasks while evolving with their workflow.
+
 #Explore Case Studies
 
 [Immersive Storytelling](YouStory.md)
