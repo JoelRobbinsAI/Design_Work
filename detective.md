@@ -31,4 +31,4 @@ The development of this case study shows how a narrative agent can evolve from a
 
 [See a short walkthrough video of the Immersive Detective Game](https://youtu.be/U45wFHBqhMg?si=68QpQxbHLZLE1GCj)
 
-[Try it out as a Custom GPT](https://chatgpt.com/g/g-67d9848d2298819186ad646076f2f1a5-immersive-detective-game)
+[Try it out as a Custom GPT!](https://chatgpt.com/g/g-67d9848d2298819186ad646076f2f1a5-immersive-detective-game)
