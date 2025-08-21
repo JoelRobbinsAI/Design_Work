@@ -1,4 +1,4 @@
-Chinese Medicine Herbalist – Case Study
+Chinese Medicine Assessment – Case Study
 
 Goal
 
@@ -26,3 +26,5 @@ Ensured that responses combined both diagnostic conclusions and explanations of 
 Design Insights
 
 The design illustrates how strict historical grounding can prevent drift while creating a voice that feels authoritative and alive. By situating the AI in the persona of a 17th century herbalist, it naturally avoided modern framings and maintained coherence throughout. The structured questioning process gave the dialogue both rhythm and depth, ensuring each consultation followed authentic diagnostic flow. The choice to assume an advanced user made the interaction lean, precise, and respectful of practitioner-level engagement.
+
+[Click here for a walkthrough video of the Chinese Medicine Assessment Tool](https://youtu.be/vBA2GFJujCc?si=ODsqtODb2vfmSjmA)
