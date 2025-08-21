@@ -14,6 +14,6 @@ My designs often make use of a setup phase, where the AI begins by asking target
 
 [Detective Game](detective.md)
 
-[Chinese Medicine Assessment](chinese_herbalist.md)
+[Chinese Medicine Assessment](chinese_medicine.md)
 
 [Companion Channel](Companion.md)
