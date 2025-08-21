@@ -29,4 +29,6 @@ Insights
 
 The development of this case study shows how a narrative agent can evolve from a rigid guessing game into a living mystery simulation. Early attempts, patterned after Clue, quickly highlighted the limits of binary responses, which stripped away tension. By moving to descriptive, narrative-driven evidence, the game began to mirror real detective work, where interpretation, intuition, and detail matter. The major breakthrough came when AI was instructed not to act as a narrator or game master, but as a static world simulation that only came alive through interaction. This shift not only fixed consistency issues but also unlocked a style of play where players felt like genuine detectives—immersed in a story that existed independently of them, waiting to be uncovered.
 
-[Try out the Immersive Detective Game as a Custom GPT](https://chatgpt.com/g/g-67d9848d2298819186ad646076f2f1a5-immersive-detective-game)
+[See a short walkthrough video of the Immersive Detective Game](https://youtu.be/U45wFHBqhMg?si=68QpQxbHLZLE1GCj)
+
+[Try it out as a Custom GPT](https://chatgpt.com/g/g-67d9848d2298819186ad646076f2f1a5-immersive-detective-game)
