@@ -16,4 +16,4 @@ The design for the Companion Channel was built on a core belief that an AI can b
 
 When these three principles are woven together, they create a system that can be applied to any kind of relationship, from creating wellness coaches to personal learning assistants. The goal is always to cultivate presence and connection.
 
-[Try out my comedian persona as a custom GPT](https://chatgpt.com/g/g-68a35c7b340481919608f9e36630f3fb-companion-channel)
+[Try out my conversational agent as a custom GPT](https://chatgpt.com/g/g-68a35c7b340481919608f9e36630f3fb-companion-channel)
