@@ -16,4 +16,4 @@ My designs often make use of a setup phase, where the AI begins by asking target
 
 [Chinese Medicine Assessment](chinese_medicine.md)
 
-[Companion Channel](Conversational_AI.md)
+[Conversational Agent](Conversational_AI.md)
