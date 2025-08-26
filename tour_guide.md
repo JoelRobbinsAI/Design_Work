@@ -1,6 +1,6 @@
 Botanical Garden Tour Guide – Case Study
 
-[Take a virtual tour with my tour guide agent!](https://cloud.flowiseai.com/chatbot/249394e7-66cb-44d9-9f4d-67bd32568929)
+[Take a virtual tour with my tour guide agent!](https://chatgpt.com/g/g-6886e95d504081919df5f918383aa7ea-botanical-garden-tour)
 
 Goal
 
@@ -32,4 +32,4 @@ The design emphasized controlled flexibility. By anchoring the agent in a refere
 
 [see a walkthrough video of this agent](https://youtu.be/T7zNl-zhaVw?si=FusoXFn1KKJ2g8ue)
 
-[Try out the tour guide agent!](https://cloud.flowiseai.com/chatbot/249394e7-66cb-44d9-9f4d-67bd32568929)
+[Try out the tour guide agent!](https://chatgpt.com/g/g-6886e95d504081919df5f918383aa7ea-botanical-garden-tour)
