@@ -12,9 +12,8 @@ Three major challenges shaped the design:
 
 The story needed to be fully immersive, with the narrator always addressing the protagonist as “you.” At the same time, characters within the story had to be able to refer to the protagonist by name. Achieving this dual layer of perspective required strict role separation between narrator and characters.
 
-2. Managing Story Arcs Without
+2. Managing Story Arcs Without Premature Foreshadowing
 
-Premature Foreshadowing
 Early iterations divided arcs into phases within one story. However, the AI often introduced foreshadowing too early, undermining narrative tension. The solution was to reframe arcs as separate but interconnected stories within the same universe. This allowed the user to define a larger arc at the start (peace → rising tension → conflict), but ensured that no future elements surfaced until the user introduced them.
 
 3. Avoiding Choose-Your-Own-Adventure Defaults
