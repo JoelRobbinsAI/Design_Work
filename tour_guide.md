@@ -1,6 +1,6 @@
 Botanical Garden Tour Guide – Case Study
 
-[Try out this agent live!](https://cloud.flowiseai.com/chatbot/249394e7-66cb-44d9-9f4d-67bd32568929)
+[Take a virtual tour with my tour guide agent!](https://cloud.flowiseai.com/chatbot/249394e7-66cb-44d9-9f4d-67bd32568929)
 
 Goal
 
