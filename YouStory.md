@@ -47,5 +47,3 @@ RPGs that benefit from simulation-style AI agents
 Educational or training scenarios that require branching but coherent narratives
 
 [See a Walkthrough video of the storytelling agent](https://youtu.be/chKcoJ80emk?si=72srKiXVmCm2ujUl)
-
-[Try out YouStory as a Custom GPT](https://chatgpt.com/g/g-67cf72ed67dc819197538d0aeb9507cf-youstory)
