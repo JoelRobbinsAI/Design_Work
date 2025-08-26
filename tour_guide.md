@@ -1,5 +1,7 @@
 Botanical Garden Tour Guide – Case Study
 
+[Try out this agent live!](https://cloud.flowiseai.com/chatbot/249394e7-66cb-44d9-9f4d-67bd32568929)
+
 Goal
 
 Build an agent that functions as a knowledgeable, engaging guide for a botanical garden. It needed to adapt explanations for different audiences, provide layered depth for each plant, and maintain a sense of continuity across the entire tour.
