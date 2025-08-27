@@ -4,31 +4,32 @@ Botanical Garden Tour Guide – Case Study
 
 Goal
 
-Build an agent that functions as a knowledgeable, engaging guide for a botanical garden. It needed to adapt explanations for different audiences, provide layered depth for each plant, and maintain a sense of continuity across the entire tour.
+Create an interactive agent that guides users through a botanical garden experience. The agent needed to deliver engaging, accurate plant education tailored to different audiences, while maintaining a sense of narrative flow across multiple stops on the tour.
 
 Challenges
 
-Ensuring factual accuracy while keeping explanations accessible.
+Balancing factual depth with accessibility
 
-Balancing three distinct teaching styles (children, traditional herbalism, evidence-based herbalism).
+Supporting three distinct teaching styles (child-friendly, traditional herbalist, evidence-based)
 
-Prevent AI from straying into irrelevant topics (e.g., giving shopping recommendations).
+Preventing the model from drifting into unrelated topics
 
-Providing coherent dialogue over a long, multi-stop tour.
+Maintaining continuity across a long-form, multi-plant conversation
+
 
 Solutions
 
-Supplied the agent with a dedicated reference document containing all tour-related information. This ensured that the guide did not rely solely on training data, while still allowing it to draw on training knowledge to fill small gaps.
+I provided the agent with a dedicated reference document containing all tour content, ensuring it could deliver grounded responses without relying too heavily on training data. The guide could still draw from general knowledge to fill minor gaps.
 
-Designed three herbalist personas, each with unique descriptions and reference data, giving visitors the option of learning from different perspectives.
+I designed three narrator personas: an elder herbalist, a kid friendly herbalist, and a science-based herbalist. Each had a defined tone and voice. Tour stops were structured with three sets of narratives per plant. The user could listen to all three or move on at any time, giving them control over how deeply they wanted to engage with each plant, and which perspective they preferred.
 
-Structured each plant presentation into three parcels: a short introduction, a mid-level explanation, and a deep dive. This let users decide whether to move on quickly or engage with more detail — across all personas.
+Instead of toggles or branching logic, I embedded all behavior control in the prompt itself. The agent treats user messages as cues to shift persona or advance the tour. For example, if a user says “next plant in a kid’s voice,” the guide switches seamlessly. This eliminated the need for any parsing or logic chains.
 
-Added guardrails to keep responses within the bounds of the botanical tour, preventing the agent from drifting into unrelated or off-topic answers. Most inportant guardrail was not constraint but conceptual reframing. AI is not a conversational partner but a tour guide reading from "notecards". User has narrowly defined input parameters and anything unrelated to plant tour gets one sentence of acknowldgement plus immediate return to the tour.
+I also included guardrails by reframing the agent’s role. It is not a conversational partner, but a tour guide reading from prepared notecards. If a user goes off-topic, the agent offers a one-sentence acknowledgment, then gently returns to the tour.
 
 Design Insights
 
-The design emphasized controlled flexibility. By anchoring the agent in a reference document, its responses stayed relevant and reliable, but the layered structure and persona-based delivery allowed for adaptability and engagement. The parceling strategy supported both casual and in-depth learners, while the persona system offered a choice of lenses on the same plant, making the tour more interactive and personal. Guardrails and conceptual reframing ensured the experience remained cohesive, avoiding distractions that could break immersion.
+The design emphasizes clarity and adaptability. Anchoring the agent in a reference document kept answers focused and consistent. The layered explanation format supported both casual and deep learners. The persona design allowed users to choose how they wanted to engage without complicating the backend logic. Overall, the system provides flexibility within clear boundaries, preserving immersion and coherence.
 
 [see a walkthrough video of this agent](https://youtu.be/T7zNl-zhaVw?si=FusoXFn1KKJ2g8ue)
 
