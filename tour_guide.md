@@ -31,6 +31,6 @@ Design Insights
 
 The design emphasizes clarity and adaptability. Anchoring the agent in a reference document kept answers focused and consistent. The layered explanation format supported both casual and deep learners. The persona design allowed users to choose how they wanted to engage without complicating the backend logic. Overall, the system provides flexibility within clear boundaries, preserving immersion and coherence.
 
-[see a walkthrough video of this agent](https://youtu.be/T7zNl-zhaVw?si=FusoXFn1KKJ2g8ue)
+[See a walkthrough video of this agent](https://youtu.be/T7zNl-zhaVw?si=FusoXFn1KKJ2g8ue)
 
 [Try out the tour guide agent!](https://chatgpt.com/g/g-6886e95d504081919df5f918383aa7ea-botanical-garden-tour)
