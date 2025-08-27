@@ -18,4 +18,4 @@ When these three principles are woven together, they create a system that can be
 
 [Watch a walkthrough video of my conversational agent](https://youtu.be/TUw8MLyFXTs?si=zu4Zht2vTNRPZQAS)
 
-[Try out my conversational agent live!](https://gemini.google.com/gem/9db1cf78c8cb)
+[Try out my comedian agent live!](https://gemini.google.com/gem/9db1cf78c8cb)
