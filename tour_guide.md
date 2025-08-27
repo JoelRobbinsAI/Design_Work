@@ -1,6 +1,8 @@
 Botanical Garden Tour Guide – Case Study
 
-[Take a virtual tour with my tour guide agent!](https://chatgpt.com/g/g-6886e95d504081919df5f918383aa7ea-botanical-garden-tour)
+[Take a virtual tour with my tour guide agent!](https://cloud.flowiseai.com/chatbot/249394e7-66cb-44d9-9f4d-67bd32568929)
+
+[Try out the tour guide agent as a Gem!](https://gemini.google.com/gem/791cbe7320ac/81ec116e59d2e1b7)
 
 Goal
 
@@ -15,7 +17,6 @@ Supporting three distinct teaching styles (child-friendly, traditional herbalist
 Preventing the model from drifting into unrelated topics
 
 Maintaining continuity across a long-form, multi-plant conversation
-
 
 Solutions
 
