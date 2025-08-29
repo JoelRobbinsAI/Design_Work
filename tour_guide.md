@@ -1,8 +1,6 @@
 Botanical Garden Tour Guide – Case Study
 
-[Take a virtual tour with my tour guide agent!](https://cloud.flowiseai.com/chatbot/249394e7-66cb-44d9-9f4d-67bd32568929)
-
-[Try out the tour guide agent as a Gem!](https://gemini.google.com/gem/791cbe7320ac/81ec116e59d2e1b7)
+(Scroll down for walkthrough video and links to live agent)
 
 Goal
 
