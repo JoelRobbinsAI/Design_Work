@@ -40,4 +40,6 @@ All logic is routed through a Conversational Retrieval QA Chain, with narrator b
 
 [Try out the tour guide agent created with Flowise](https://cloud.flowiseai.com/chatbot/249394e7-66cb-44d9-9f4d-67bd32568929)
 
+(To get the conversation started with the flowise agent, say "let's begin" and follow prompts to select the persona: Elder, kid friendly or evidence-based)
+
 [Try out the tour guide agent as a Gem!](https://gemini.google.com/gem/791cbe7320ac/81ec116e59d2e1b7)
