@@ -38,6 +38,6 @@ All logic is routed through an LLMChain. The agent's persona and behavior are em
 
 [See a walkthrough video of this agent](https://youtu.be/T7zNl-zhaVw?si=FusoXFn1KKJ2g8ue)
 
-[Try out the tour guide agent created with Langchain](https://huggingface.co/spaces/Dirtydaoist/Botanical_Tour_Guide)
+[Try out the tour guide agent powered by LangChain and Open Router](https://huggingface.co/spaces/Dirtydaoist/Botanical_Tour_Guide)
 
 (To get the conversation started with the flowise agent, say "hello" and follow prompts to select the persona: Elder, child friendly or evidence-based)
