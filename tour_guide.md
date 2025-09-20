@@ -1,6 +1,6 @@
 Botanical Garden Tour Guide – Case Study
 
-(Scroll down for walkthrough video and links to live agent made with Lanchain)
+(Scroll down for walkthrough video and links to live agent)
 
 Goal
 
