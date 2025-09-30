@@ -32,6 +32,6 @@ The design emphasizes clarity and adaptability. Anchoring the agent in a referen
 
 [See a walkthrough video of this agent](https://youtu.be/T7zNl-zhaVw?si=FusoXFn1KKJ2g8ue)
 
-[Try out the tour guide agent powered by Gemini](https://gemini.google.com/gem/1pJI6yIpoHJpyQrPwyn6rOtcGETmcMwVD?usp=sharing)
+[Try out the tour guide agent powered  by python and OpenRouter](https://botanical-guide-agent-tkbyetttyczskbrgdvjmhv.streamlit.app/)
 
 (To get the conversation started with the flowise agent, say "hello" and follow prompts to select the persona: Elder, child friendly or evidence-based)
