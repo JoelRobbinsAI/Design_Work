@@ -34,4 +34,4 @@ The design emphasizes clarity and adaptability. Anchoring the agent in a referen
 
 [Try out the tour guide agent powered  by python and OpenRouter](https://botanical-guide-agent-tkbyetttyczskbrgdvjmhv.streamlit.app/)
 
-(To get the conversation started with the flowise agent, say "hello" and follow prompts to select the persona: Elder, child friendly or evidence-based)
+(To get the conversation started choose persona: Elder, child friendly or evidence-based, then say either continue, next plant or choose new persona voice, eg. "evidence")
