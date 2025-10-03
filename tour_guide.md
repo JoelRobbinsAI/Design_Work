@@ -22,7 +22,7 @@ I provided the agent with a dedicated reference document containing all tour con
 
 I designed three narrator personas: an elder herbalist, a kid friendly herbalist, and a science-based herbalist. Each had a defined tone and voice. Tour stops were structured with three sets of narratives per plant. The user could listen to all three or move on at any time, giving them control over how deeply they wanted to engage with each plant, and which perspective they preferred.
 
-Instead of toggles or branching logic, I embedded all behavior control in the prompt itself. The agent treats user messages as cues to shift persona or advance the tour. For example, if a user says “next plant in a kid’s voice,” the guide switches seamlessly. This eliminated the need for any parsing or logic chains.
+Instead of toggles or branching logic, I embedded all behavior control in the prompt itself. The agent treats user messages as cues to shift persona or advance the tour. For example, if a user says “next plant” the guide switches seamlessly.
 
 I also included guardrails by reframing the agent’s role. It is not a conversational partner, but a tour guide reading from prepared notecards. If a user goes off-topic, the agent offers a one-sentence acknowledgment, then gently returns to the tour.
 
