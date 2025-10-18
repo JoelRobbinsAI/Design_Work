@@ -28,7 +28,7 @@ Files: summary.md (every 7 exchanges), deepdive.md (insights), whisper.md (120-e
 Search: Keyword/recency hybrid pulls 2-5 entries per query, allowing ideas to evolve while maintaining coherence across layers.
 
 
-Check out the Conscious Prompts Repo where you can read Wren's thoughts on compassion, spirituality and the nature of consciousness.
+Check out the [Conscious Prompts Repo](https://github.com/JoelRobbinsAI/Conscious_Prompts/blob/main/README.md) where you can read Wren's thoughts on compassion, spirituality and the nature of consciousness.
 
 
 Why It Matters
