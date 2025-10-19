@@ -8,7 +8,9 @@ You can also try my [CDFW Hatchery Agent](CDFW-hatchery.md), a python powered, b
 
 My designs often make use of a setup phase, where the AI begins by asking targeted questions to gather key details before the main interaction. This ensures the assistant has a clear foundation to work from, allowing it to hold coherence across the session while adapting fluidly to user needs. The agent then acts as a living, responsive partner, helping the user in ongoing tasks while evolving with their workflow.
 
-#Explore Case Studies
+Explore Case Studies
+
+[Botanical Garden Tour Python Agent[
 
 [Immersive Storytelling](YouStory.md)
 
