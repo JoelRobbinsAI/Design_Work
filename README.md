@@ -10,7 +10,7 @@ My designs often make use of a setup phase, where the AI begins by asking target
 
 Explore Case Studies
 
-[Botanical Garden Tour Python Agent[
+[Botanical Garden Tour Python Agent](tour_guide.md)
 
 [Immersive Storytelling](YouStory.md)
 
