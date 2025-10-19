@@ -2,7 +2,7 @@
 
 This repository is a collection of AI design projects — agents, prompt frameworks, and conversation design. Here you’ll find runnable examples, case studies, and explorations of how AI systems can be shaped to work with people in more thoughtful ways.  
 
-Start with the [WWHW Framework](WWHW_Framework.md) if you’d like to see how my prompt methodologies work.
+Start with the [WWHW Framework](WWHW_Framework.md) for a runnable example of prompts following my methodologies.
 
 You can also try my [CDFW Hatchery Agent](CDFW-hatchery.md), a python powered, bilingual voice guide, built in collaboration with the California Department of Fish and Wildlife.  
 
