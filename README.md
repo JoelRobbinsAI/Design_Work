@@ -19,3 +19,5 @@ Explore Case Studies
 [Chinese Medicine Assessment](chinese_medicine.md)
 
 [Conversational Agent](Conversational_AI.md)
+
+[CDFW Hatchery Agent](CDFW-hatchery.md)
