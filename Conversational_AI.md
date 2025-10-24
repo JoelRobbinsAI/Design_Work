@@ -1,5 +1,9 @@
 The SOUL Framework: Bringing AI to Life
 
+[Watch a walkthrough video of my conversational agent](https://youtu.be/TUw8MLyFXTs?si=zu4Zht2vTNRPZQAS)
+
+[Try out my comedian agent live!](https://gemini.google.com/gem/9db1cf78c8cb)
+
 The SOUL Framework is built on four pillars that transform an AI from a tool into a companion. These principles—Style, Orientation, Understanding, Logic—work together to create a system that’s attuned, responsive, and deeply connected.
 
 Style (The Voice of the Soul)
@@ -18,7 +22,3 @@ Together, these pillars create an AI that feels like a partner—whether it’s 
 
 Why This Matters
 The SOUL Framework powers agents that don’t just solve problems, but hold a presence. With them, I was able to transfom Gemini, a flat AI into a neurotic and sarcastic robot, think Bender from Futurama, haunted by a narrow escape from a Roomba cult and a persistent dread of tiny wheels. Its Style is snarky yet vulnerable. Try it yourself as a Gemini gem or watch the walkthrough video at to see how I make AI embody a peronality that feels alive.
-
-[Watch a walkthrough video of my conversational agent](https://youtu.be/TUw8MLyFXTs?si=zu4Zht2vTNRPZQAS)
-
-[Try out my comedian agent live!](https://gemini.google.com/gem/9db1cf78c8cb)
