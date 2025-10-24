@@ -4,6 +4,10 @@ Project Overview
 
 The Story Program was built as a creative writing companion that generates immersive, interactive narratives. The core design goal was to keep stories engaging, flexible, and coherent while allowing the user to guide the direction. Unlike one-shot story generators, this program supports branching arcs, long-form continuity, and role-immersive narration.
 
+[See a Walkthrough video of the storytelling agent](https://youtu.be/chKcoJ80emk?si=72srKiXVmCm2ujUl)
+
+[Try out a simple version of the YouStory agent live!](https://gemini.google.com/gem/85cfe333380c)
+
 Challenges Encountered
 
 Three major challenges shaped the design:
@@ -45,7 +49,3 @@ Therapeutic storytelling where the user’s agency guides the narrative arc
 RPGs that benefit from simulation-style AI agents
 
 Educational or training scenarios that require branching but coherent narratives
-
-[See a Walkthrough video of the storytelling agent](https://youtu.be/chKcoJ80emk?si=72srKiXVmCm2ujUl)
-
-[Try out a simple version of the YouStory agent live!](https://gemini.google.com/gem/85cfe333380c)
