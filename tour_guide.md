@@ -1,6 +1,8 @@
 Botanical Garden Tour Guide – Case Study
 
-(Scroll down for walkthrough video and links to live agent)
+[See a walkthrough video of this agent](https://youtu.be/T7zNl-zhaVw?si=FusoXFn1KKJ2g8ue)
+
+[Try out the tour guide agent powered  by python and OpenRouter](https://botanical-guide-agent-tkbyetttyczskbrgdvjmhv.streamlit.app/)
 
 Goal
 
@@ -29,9 +31,3 @@ I also included guardrails by reframing the agent’s role. It is not a conversa
 Design Insights
 
 The design emphasizes clarity and adaptability. Anchoring the agent in a reference document kept answers focused and consistent. The layered explanation format supported both casual and deep learners. The persona design allowed users to choose how they wanted to engage without complicating the backend logic. Overall, the system provides flexibility within clear boundaries, preserving immersion and coherence.
-
-[See a walkthrough video of this agent](https://youtu.be/T7zNl-zhaVw?si=FusoXFn1KKJ2g8ue)
-
-[Try out the tour guide agent powered  by python and OpenRouter](https://botanical-guide-agent-tkbyetttyczskbrgdvjmhv.streamlit.app/)
-
-(To get the conversation started choose persona: Elder, child friendly or evidence-based, then say either continue, next plant or choose new persona voice, eg. "evidence")
