@@ -22,4 +22,4 @@ Explore Case Studies
 
 [CDFW Hatchery Agent](CDFW-hatchery.md)
 
-[Self Reflecring Agent](Self_Reflecton.md)
+[Self-Reflecting Agent](Self-Reflection-Agent.md
